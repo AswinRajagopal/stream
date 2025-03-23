@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "367014170447",
+    "project_id": "rudo-1b33e",
+    "storage_bucket": "rudo-1b33e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367014170447:android:18ee193b4837fb64febf3a",
+        "android_client_info": {
+          "package_name": "com.example.stream"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367014170447-joogeoc8mue3iktvo3ceu19gsm72r5hk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.stream",
+            "certificate_hash": "7b570d2d9684a2d224b1f0d261f82ab7fcacd84a"
+          }
+        },
+        {
+          "client_id": "367014170447-b0mv8ai22fkkep2gtb25fca0hmvt0f58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjcUTTdtf1yyRTSzuPXJ6KnPxwYEnVho8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367014170447-b0mv8ai22fkkep2gtb25fca0hmvt0f58.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "367014170447-bs6bllk7rq9mblcvisvp9bp6ubr11tdm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rudo.stream"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367014170447:android:1d8c0e35074cfae7febf3a",
+        "android_client_info": {
+          "package_name": "com.rudo.stream"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367014170447-b0mv8ai22fkkep2gtb25fca0hmvt0f58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjcUTTdtf1yyRTSzuPXJ6KnPxwYEnVho8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367014170447-b0mv8ai22fkkep2gtb25fca0hmvt0f58.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "367014170447-bs6bllk7rq9mblcvisvp9bp6ubr11tdm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rudo.stream"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
