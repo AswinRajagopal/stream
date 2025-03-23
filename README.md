@@ -1,4 +1,4 @@
-# 📱 Flutter Firebase Authentication App
+# 📱 Rudo App 
 
 ## 🚀 Overview
 This Flutter application implements **Firebase Authentication** using **BLoC state management**. It supports multiple authentication methods:
